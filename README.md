@@ -1,4 +1,4 @@
-# AML_Query_xPPU
+# xPPU-AML-PPR
 
 The project demonstrates how relations between processes, products, and resources (PPR) can be extracted from AML files.
 The connections are extracted in the form of triples (product,process,resource).
