@@ -46,3 +46,18 @@ The queries extract connections by looping over the products, processes, and res
 ### Convert output to CSV
 src/converter.py converts the output from BaseX to csv for better readability 
 
+# Citation
+Please use the following bibtex entry:
+```
+@incollection{vog2021aml,
+address = {Berlin},
+author = {Vogel-Heuser, Birgit and Ocker, Felix and Gehlen, Lukas},
+booktitle = {AutomationML – The Industrial Cookbook},
+doi = {https://doi.org/10.1515/9783110745979},
+editor = {Drath, Rainer},
+isbn = {978-3-11-074592-4},
+publisher = {De Gruyter Oldenbourg},
+title = {{Concept to refine and computationally evaluate PPR information in AutomationML}},
+year = {2021}
+}
+```
