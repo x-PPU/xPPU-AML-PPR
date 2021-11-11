@@ -27,7 +27,7 @@ Whitepaper AutomationML Edition 2.1 2018
 
 ## xPPU Documentation
 
-The [extended Pick and Place Unit (xPPU)](https://www.mw.tum.de/en/ais/research/equipment/ppu/) works as a demonstrator for complex industrial plants.
+The [extended Pick and Place Unit (xPPU)](https://www.mec.ed.tum.de/en/ais/research/equipment/ppu/) works as a demonstrator for complex industrial plants.
 It stamps and sorts different kinds of workpieces. For every workpiece different processes require different resources.
 
 ## Walkthrough - information extraction
